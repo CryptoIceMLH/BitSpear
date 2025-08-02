@@ -1,0 +1,2 @@
+# BitSpear
+Bitcoin ASIC Miner 
