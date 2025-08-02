@@ -1,4 +1,3 @@
-# BitSpear
-Bitcoin ASIC Miner
-![IMG-20250802-WA0012](https://github.com/user-attachments/assets/1fbaa119-6061-46f5-869a-98a9c84cf900)
+![IMG_20250802_220050](https://github.com/user-attachments/assets/175076ab-1f90-44a0-9d99-fa1539aefbc0)
 
+Bitcoin ASIC Miner
